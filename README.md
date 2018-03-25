@@ -1,0 +1,2 @@
+# nodegit
+node git alpine
